@@ -1,4 +1,5 @@
-Django==2.0.12
-pandas==0.23.3
-numpy==1.14.5
-scipy==1.1.0
+Django==3.2
+pandas==1.2.3
+numpy==1.20.2
+scipy==1.6.2
+pyunicode==0.03
